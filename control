@@ -1,0 +1,9 @@
+Package: com.manhquan.videostartool
+Name: VideoStarTool
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Runtime Automation Bot for Video Star
+Maintainer: Manh Quan
+Author: Manh Quan
+Section: Tweaks
